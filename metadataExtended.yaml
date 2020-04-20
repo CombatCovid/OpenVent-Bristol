@@ -34,8 +34,19 @@ intended-use: |                            # recommended | Paragraph
       medical use
 
 keywords:                                  # At least one keyword is recommended | text array 
-  - keyword 1
-  - keyword 2
+   -  arduino
+   -  cut
+   -  laser
+   -  mask
+   -  valve
+   -  bag
+   -  bvm
+   -  ambubag
+   -  covid
+   -  virus
+   -  corona
+   -  ventilator
+   -  covid-19
 
 features:
   - Feature 1
@@ -44,7 +55,7 @@ features:
 design_status: in progress,doesn't currently meet the NHS requirements                                                      # text
 
 
-image: value                             # recommended | absolute or relative path
+image: summary.jpg                             # recommended | absolute or relative path
 version: value                           # text
 made: true                               # boolean - true or false
 
@@ -80,17 +91,24 @@ standards_used:
     reference: value                     # Reference indentifier of the standard (e.g. ISO 9001)
     certification:                         # If certification has been granted confirming compliance with the standard
       - certifier: value                 # Individual or organisation granting the certification. Use "Self" for self-certification
-        date-awarded: value              # Date certification was granted
+        date-awarded:               # Date certification was granted
         link: value                      # Link to evidence of certification (e.g. certificate). Use an an absolute path to an external resource or an absolute or relative path to evidence within the documentation.
 
 references:
  - name: String
    
 parts:
-  - name: String
+  - name: 
+    - "Back plate.dxf"
+    - Q1x "Left side big hole.dxf"
+    - Q1x "Base plate.dxf"
+    - Q1x "Arduino DJ shield cover V2.dxf"
+    - Q1x "right side small hole.dxf"
+    - Q4x "arm contact ring 25mm.dxf"
+    - Q2x "Base fins"
     quantity: 1
-    reference: link
+    reference: https://grabcad.com/library/covid-19-rapid-manufacture-ventilator-bvm-ambubag-openvent-bristol-2
 
 # Documentation
-bom: value                              # recommended | absolute or relative path | Direct the maker to the Bill of Materials
+bom: src/BOM.pdf                              # recommended | absolute or relative path | Direct the maker to the Bill of Materials
 

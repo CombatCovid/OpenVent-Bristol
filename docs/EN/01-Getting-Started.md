@@ -65,9 +65,12 @@ An analogy: Imagine inflating a balloon, letting it deflate completely, then re-
 This design is based on a hand operated BVM (Bag Valve Mask) or known as ambu bag, which when combined with a PEEP valve will meet most of the NHS requirements for COVID-19 ventilation treatment. My design replaces the hand making this automated.
 
 ### Side and Top views
-![](../img/side-view-schematics.jpg)![](../img/top-view-schematics.jpg)
 
-# Credits:
+![](../img/side-view-schematics.jpg)
+
+![](../img/top-view-schematics.jpg)
+
+## Credits:
 
 Credit to the people below for helping to make this all possible:
 

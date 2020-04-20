@@ -1,6 +1,6 @@
-# Instructables 
+# BOM 
 
-## Step # 1:Buy the parts
+# Step 1:Buy the parts
 - Arduino Uno £3.00, [buy here](https://www.ebay.co.uk/itm/Mega2560-UNO-R3-ATmega328P-ATemga2560-16AU-Board-CH340G-FT232-Chip-Arduino-UK/202460399703?hash=item2f23948857:m:msxh1rbsMICGKlrlhEPiOeA) (a genuine Uno board was used in the prototype)
 
 ![Mega2560-UNO-R3-ATmega328P-ATemga2560-16AU-Board-CH340G-FT232-Chip-Arduino-UK](../img/Mega2560-UNO-R3-ATmega328P-ATemga2560-16AU-Board-CH340G-FT232-Chip-Arduino-UK.png)
@@ -10,9 +10,11 @@
 ![Shield-R3-DC-Motor-Driver-Module-2A-H-Bridge-2-way-Arduino-UNO](../img/Shield-R3-DC-Motor-Driver-Module-2A-H-Bridge-2-way-Arduino-UNO.png)
 
 - Geared DC motor 20-40rpm £24.00,[buy here](https://uk.rs-online.com/web/p/dc-geared-motors/0420586/)
+
 ![RS-PRO-12-V-dc-6000-gcm-Brushed-DC-Geared-Motor-Output-Speed-29-rpm](../img/RS-PRO-12-V-dc-6000-gcm-Brushed-DC-Geared-Motor-Output-Speed-29-rpm.png)
 
 - Arduino Dj shield £16.00 [Buy Here](https://coolcomponents.co.uk/products/dj-shield-standard-kit?_pos=2&_sid=3e205c697&_ss=r)
+
 ![](../img/DJ-Shield-shield-for-Arduino.png)
 
 - Mains to 12 V DC 'wall wart' min 3A £5 [Buy Here](https://www.ebay.co.uk/itm/EU-UK-Universal-DC-12V-1A-2A-3A-Mains-Power-Supply-Adapter-Charger-Transformer/264587958141?hash=item3d9aabd77d:m:miZdzji8t2vXFunw-isefxA)
