@@ -1,5 +1,7 @@
+
 OpenVent 
 
+## Readme taken from the original repo: https://github.com/RealFreshRate/OpenVent/tree/master
 Introduction 
 
 Ventilation is the only known available treatment for sufferers of COVID-19. Existing ventilation machines in hospitals are complex general purpose machines costing £10s of thousands. The availability of the existing ventilators is no where near enough to meet the predicted required numbers, for example in the UK around 5000 ventilators currently exist within the NHS but it is predicted they will need around 30,000 in just a few weeks. Critically ill patients left without ventilation treatment are in danger of losing their life.
