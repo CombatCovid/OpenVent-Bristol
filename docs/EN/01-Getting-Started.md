@@ -2,7 +2,9 @@
 
 # Getting started
 The project link is : [https://www.instructables.com/id/COVID-19-Rapid-Manufacture-Ventilator-BVM-Ambubag-/](https://www.instructables.com/id/COVID-19-Rapid-Manufacture-Ventilator-BVM-Ambubag-/)
-The repo  with this documentation can be downloaded here: 
+The repo  with this documentation can be downloaded following this link: [DOWNLOAD HERE](https://github.com/CombatCovid/OpenVent-Bristol/archive/master.zip)
+
+
 The USP(Unique Selling Proposition) of this design is how easy and fast it can scale for mass production for the following reasons:
 
 - Automated production: The production of each part is fully automated (laser cutting), with only 8 different parts
