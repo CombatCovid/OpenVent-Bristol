@@ -21,7 +21,6 @@ languages:
     # If you are using a mask then some will probably change
     keywords: [patient,recovery,critical care,intensive care,icu,equipment,
                emergency room,helper,treatment,hospital,operating room,arduino, 
-               cut, laser, mask, valve, bag, bvm, ambubag,
-                ventilator, covid-19]
+               cut, laser, mask, valve, bag, bvm, ambubag,ventilator, covid-19]
 
 # end of app metadata
