@@ -2,6 +2,7 @@
 # Comments are expressed with a # preceding the line of text
 # Be as explicit and contextual as possible
 title: OpenVent-Bristol
+finderPriority: 700
 
 # Name of the actual github repository
 name: OpenVent-Bristol
@@ -14,13 +15,13 @@ nameWithOwner: CombatCovid/OpenVent-Bristol
 languages:
   # Document in English
   EN:
-    description: A low cost design focused on Rapid Manufacture Ventilator BVM Ambubag. 
+    description: A low cost design focused on Rapid Manufacture Ventilator BVM Ambubag.
     # Example of description: A low cost ventilator based on off the shelves components available in the Netherlands
-    
+
     # Replace the keywords here to whatever is relevant to your context
     # If you are using a mask then some will probably change
     keywords: [patient,recovery,critical care,intensive care,icu,equipment,
-               emergency room,helper,treatment,hospital,operating room,arduino, 
+               emergency room,helper,treatment,hospital,operating room,arduino,
                cut, laser, mask, valve, bag, bvm, ambubag,ventilator, covid-19]
 
 # end of app metadata
